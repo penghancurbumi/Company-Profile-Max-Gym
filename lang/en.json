@@ -1,0 +1,313 @@
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "membership": "Membership",
+    "contact": "Contact"
+  },
+
+  "home": {
+    "hero_title1": "Transform Your",
+    "hero_title2":"Body With",
+    "hero_desc": "Build a stronger body with consistent training and discipline. Start today and become the best version of yourself",
+    "hero_join": "join now",
+    "hero_view": "View Programs"
+  },
+
+  "program": {
+    "program_p": "What We Offer",
+    "program_our": "our",
+    "program_program":"programs",
+    "program_desc": "Our training programs are specially designed to help you achieve your best fitness and physical condition",
+    "list": [
+      {
+        "title": "Personal Training",
+        "desc": "One-on-one training with professional trainers tailored to your goals and schedule"
+      },
+      {
+        "title": "Strength Training",
+        "desc": "Build muscle, increase strength, and achieve your ideal physique with structured weight training programs"
+      },
+      {
+        "title": "Group Class (Zumba)",
+        "desc": "High-energy and fun fitness classes suitable for all ages and fitness levels"
+      },
+      {
+        "title": "Fitness Training",
+        "desc": "Personalized workouts designed according to your goals, schedule, and fitness level"
+      }
+    ]
+  },
+
+  "choose": {
+    "choose_p": "Why Max Gym",
+    "choose_title1": "Why",
+    "choose_title2": "Choose Us",
+    "choose_desc": "We are committed to providing the best gym experience for every member",
+    "list": [
+      {
+        "title": "Experienced Trainers",
+        "desc": "Professional and certified trainers ready to guide you from the start until your fitness goals are achieved"
+      },
+      {
+        "title": "Modern Equipment",
+        "desc": "Complete facilities with modern gym equipment to support various types of workouts"
+      },
+      {
+        "title": "Affordable Price",
+        "desc": "Starting from 150K per month, you can enjoy complete gym facilities at an affordable price"
+      },
+      {
+        "title": "Supportive Community",
+        "desc": "Join a positive gym community that supports and motivates each other"
+      }
+    ]
+  },
+
+  "gallery": {
+    "sub": "Discover Our Gym",
+    "title1": "Inside",
+    "title2":"MaxGym",
+    "desc": "Our space, your journey built to push you beyond your limits."
+  },
+
+  "services": {
+    "services_title": "Our Services",
+    "services_nav": "Home / Services",
+    "WWO": {
+      "sub": "WHAT WE OFFER",
+      "title1": "Programs Built for",
+      "title2":"Real Results",
+      "desc": "We offer a variety of training programs designed to help you achieve your best physical results.",
+      "list": [
+        {
+          "title": "Personal Training",
+          "desc": "One-on-one training with our experienced trainers. Programs are tailored to your body condition, goals, and schedule"
+        },
+        {
+          "title": "Group Class (Zumba)",
+          "desc": "Enjoy energetic and fun Zumba group classes suitable for all ages and fitness levels"
+        },
+        {
+          "title": "Membership",
+          "desc": "Flexible packages available for visit or monthly membership. Get full access to all gym facilities"
+        },
+        {
+          "title": "Strength Training",
+          "desc": "Weight training programs to effectively build strength and muscle with proper and safe techniques"
+        },
+        {
+          "title": "Cardio Training",
+          "desc": "Improve stamina, heart health, and burn calories with modern cardio equipment"
+        },
+        {
+          "title": "Workout Guidance",
+          "desc": "Guidance from trainers to help you use gym equipment properly and build the right workout routine"
+        }
+      ]
+    }
+  },
+
+  "fasilitas": {
+  "sub":"our facilities",
+  "title1":"Complete & Modern",
+  "title2":"Facilities",
+  "desc": "We provide the best facilities to support every workout session so you can train comfortably and effectively",
+  "list": [
+      { "title": "Complete Weight Equipment" },
+      { "title": "Treadmill & Cardio Machines" },
+      { "title": "Locker & Changing Room" },
+      { "title": "Bathroom & Shower" },
+      { "title": "Air Conditioned Room" },
+      { "title": "Free WiFi" },
+      { "title": "24 Hour CCTV" },
+      { "title": "Parking Area" }
+    ]
+  },
+
+  "membership": {
+    "title": "Membership",
+    "nav": "Home / Membership",
+    "plan": {
+      "sub": "our program",
+      "title1": "Choose Your",
+      "title2": "Plan",
+      "desc": "Choose flexible membership packages designed to suit your needs, whether you are a beginner or already experienced",
+      "list": [
+        {
+          "sub": "Best Choice",
+          "title": "Regular Package",
+          "desc": "For general members who want flexible training",
+          "package": [
+            { "title": "Regular Member", "price": "200K","month":"/ Month" },
+            { "title": "Regular Visit", "price": "55K", "visit":"/ Visit" }
+          ],
+          "benefit": {
+            "benefit_1": "Access to all gym equipment",
+            "benefit_2": "Free mineral water",
+            "benefit_3": "Suitable for everyone"
+          }
+        },
+        {
+          "sub": "Student Choice",
+          "title": "Student Package",
+          "desc": "Special price for students.",
+          "package": [
+            { "title": "Student Member", "price": "150K", "month":"/ Month" },
+            { "title": "Student Visit", "price": "35K", "visit":"/ Visit" }
+          ],
+          "benefit": {
+            "benefit_1": "Access to all gym equipment",
+            "benefit_2": "More affordable for students",
+            "benefit_3": "Student ID required"
+          }
+        }
+      ]
+    }
+  },
+
+  "faq": {
+    "sub": "F.A.Q",
+    "title": "Frequently Asked Questions",
+    "desc": "Have questions about membership, facilities, or how to get started? We've got the answers",
+    "list": [
+      {
+        "title": "What are the gym's operating hours?",
+        "desc": "Monday – Friday: 14.00 – 22.00 WIB. Saturday – Sunday: 14.00 – 22.00 WIB. We are open every day including public holidays"
+      },
+      {
+        "title": "Is there a trial or day pass available?",
+        "desc": "Yes! We offer visit passes for Rp 55K (Regular) and Rp 35K (Student) per visit, including mineral water"
+      },
+      {
+        "title": "What is included in the membership?",
+        "desc": "Every membership includes full access to all gym equipment, locker rooms, and Zumba fitness classes. Personal trainer guidance is also available upon request"
+      },
+      {
+        "title": "How do I register as a member?",
+        "desc": "You can register directly at our gym or contact us via WhatsApp. Our admin will guide you through the registration process and help you choose the right plan"
+      },
+      {
+        "title": "Is there a student discount available?",
+        "desc": "Yes! We offer a special Student Package at Rp 150K/month and Rp 35K/visit. Simply show your valid student ID upon registration"
+      }
+    ]
+  },
+
+  "contact": {
+    "title": "contact",
+    "nav": "home / contact",
+    "body": {
+      "info": [
+        {
+          "title": "Max Gym",
+          "location": "Jl. Hj. Kokon Komariah, Subangjaya, Cikole District, Sukabumi City, West Java 43116"
+        },
+        {
+          "title": "Opening Hours",
+          "hour": {
+            "weekday": "Mon - Fri : 14.00 - 22.00 WIB",
+            "weekend": "Sat - Sun : 14.00 - 22.00 WIB"
+          }
+        },
+        {
+          "title": "Phone",
+          "Telp": "+62 815-6344-7530"
+        },
+        {
+          "title": "Email",
+          "email": "maxgym@gmail.com"
+        }
+      ]
+    },
+    "message": {
+      "title": "Send Us a Message",
+      "desc": "Leave us a message and we will respond as soon as possible",
+      "input": [
+        {
+          "title": "Your Name",
+          "placeholder": "Your Name"
+        },
+        {
+          "title": "Email Address",
+          "placeholder": "Your Email"
+        },
+        {
+          "title": "Message",
+          "placeholder": "Your Message"
+        }
+      ],
+      "button": "Send Message"
+    }
+  },
+
+  "adversement_1": {
+    "sub": "We're Here For You",
+    "title": "Have Questions? We've Got Answers",
+    "desc": "Our team is ready to help you choose the right plan and get started right away.",
+    "button": "Chat With Us"
+  },
+
+  "adversement_2": {
+    "sub": "Limited Offer",
+    "title": "Invest in Yourself — Start for Less",
+    "desc": "Choose your plan today and take the first step toward a stronger and healthier you",
+    "button": "Join Now"
+  },
+
+  "adversement_3": {
+    "sub": "Join Now",
+    "title": "Ready to Train? Your First Session Starts Today",
+    "desc": "See our equipment firsthand, meet our trainers, and experience training at Max Gym",
+    "button": "Start Your Journey"
+  },
+
+  "footer": {
+  "about": [
+    {
+      "title": "Max Gym",
+      "desc": "MaxGym & Zumba Fitness Performance is a fitness center in Sukabumi that provides gym facilities and Zumba classes."
+    }
+  ],
+  "links": [
+    { "title": "Useful Links", "list": "Home" },
+    { "title": "", "list": "Services" },
+    { "title": "", "list": "Membership" },
+    { "title": "", "list": "Contact" }
+  ],
+  "contact": [
+    { "title": "Contact" },
+    { "address": "Jl. Hj. Kokon Komariah, Subangjaya..." },
+    { "hours": "Opening Hours: 08:00 - 20:00" },
+    { "title": "+62 815-6344-7530" }
+  ],
+  "copyright": "© 2026 MaxGym. All Rights Reserved."
+},
+
+"testimonial":{
+  "sub":"Member Testimonials",
+  "title1":"What our",
+  "title2":"members say",
+  "desc":"Real experiences from our loyal Max Gym members",
+  "rate":[
+    {
+      "desc":"Finally found an aesthetic gym that is very clean and well organized. You must try it! The price is also totally worth it. Best!"
+    },
+    {
+      "desc":"The place is very comfortable. I've been working out here since the beginning of the year and I still come regularly 🔥"
+    },
+    {
+      "desc":"The location is strategic and close to my house. The facilities are complete, clean, and very comfortable."
+    },
+    {
+      "desc":"I tried working out here once. The place is nice and clean, and the equipment is complete and high quality. Next time I want to become a member here 🫶"
+    },
+    {
+      "desc":"The place is comfortable and the facilities are very complete. Most importantly, the restroom and prayer room are also clean 🤍"
+    },
+    {
+      "desc":"The place is great, clean, the service is good, and the fitness equipment is new. Best!"
+    }
+  ]
+}
+}

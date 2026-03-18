@@ -1,0 +1,340 @@
+{
+    "navbar":{
+        "home":"Beranda",
+        "services":"Layanan",
+        "membership":"Membership",
+        "contact":"Kontak"
+    },
+
+    "home":{
+        "hero_title1":"Ubah",
+        "hero_title2":"Tubuhmu Bersama",
+        "hero_desc":"Bangun tubuh yang lebih kuat dengan latihan yang konsisten dan disiplin. Mulai hari ini dan jadilah versi terbaik dari dirimu",
+        "hero_join":"bergabung sekarang",
+        "hero_view":"Lihat Program"
+    },
+
+    "program":{
+        "program_p":"Apa yang Kami Tawarkan",
+        "program_our":"Program",
+        "program_program":"Kami",
+        "program_desc":"Program latihan kami dirancang khusus untuk membantu kamu mencapai tujuan kebugaran dan kondisi fisik terbaik",
+        "list":[
+            {
+                "title":"latihan Personal",
+                "desc":"Latihan pribadi bersama pelatih profesional yang disesuaikan dengan tujuan dan jadwal kamu"
+            },
+            {
+                "title":"latihan kekuatan",
+                "desc":"Bangun otot, tingkatkan kekuatan, dan bentuk tubuh ideal melalui program latihan beban yang terstruktur"
+            },
+            {
+                "title":"Kelas Grup (Zumba)",
+                "desc":"Kelas kebugaran berenergi tinggi yang menyenangkan dan cocok untuk semua usia serta tingkat kebugaran"
+            },
+            {
+                "title":"Latihan Kebugaran",
+                "desc":"Latihan pribadi yang dirancang sesuai dengan tujuan, jadwal, dan tingkat kebugaran kamu."
+            }
+        ]
+    },
+
+    "choose":{
+        "choose_p":"Mengapa Max Gym",
+        "choose_title1":"Mengapa",
+        "choose_title2":"memilih kami",
+        "choose_desc":"Kami berkomitmen memberikan pengalaman gym yang terbaik untuk setiap member",
+        "list":[
+            {
+                "title":"Pelatih Berpengalaman",
+                "desc":"Pelatih profesional dan bersertifikat siap membimbing kamu dari awal latihan hingga tujuan kebugaranmu tercapai"
+            },
+            {
+                "title":"Peralatan Modern",
+                "desc":"Fasilitas lengkap dengan peralatan gym modern untuk mendukung berbagai jenis latihan"
+            },
+            {
+                "title":"Harga Terjangkau",
+                "desc":"Mulai dari 150K per bulan, kamu sudah bisa menikmati fasilitas gym lengkap dengan harga yang terjangkau"
+            },
+            {
+                "title":"Komunitas Suportif",
+                "desc":"Bergabung dengan komunitas gym yang positif, saling mendukung, dan memotivasi satu sama lain"
+            }
+        ]
+    },
+
+    "gallery":{
+        "sub":"Jelajahi Gym Kami",
+        "title1":"Di Dalam",
+        "title2":"MaxGym",
+        "desc":"Ruang kami, perjalananmu dirancang untuk mendorongmu melampaui batasmu."
+    },
+
+    "services":{
+        "services_title":"Services kami",
+        "services_nav":"Beranda / Layanan",
+        "WWO":{
+            "sub":"WHAT WE OFFER",
+            "title1":"Program yang Dirancang untuk",
+            "title2":"Hasil Nyata",
+            "desc":"Kami menyediakan berbagai program latihan yang dirancang khusus untuk membantu kamu mencapai tujuan fisik terbaikmu.",
+            "list":[
+                {
+                    "title":"Personal Training",
+                    "desc":"Latihan satu-satu bersama trainer berpengalaman kami. Program disesuaikan dengan kondisi tubuh, tujuan, dan jadwal kamu secara personal"
+                },
+                {
+                    "title":"Group Class (Zumba)",
+                    "desc":"Nikmati sesi latihan bersama dalam kelas Zumba yang energik dan menyenangkan. Cocok untuk semua usia dan tingkat kebugaran"
+                },
+                {
+                    "title":"Membership",
+                    "desc":"Pilihan paket yang fleksibel, baik visit maupun bulanan. Dapatkan akses penuh ke semua fasilitas gym dengan harga terjangkau"
+                },
+                {
+                    "title":"Strength Training",
+                    "desc":"Program latihan beban untuk membantu membangun kekuatan dan massa otot secara efektif dengan teknik yang aman dan terarah"
+                },
+                {
+                    "title":"Cardio Training",
+                    "desc":"Latihan kardio untuk meningkatkan stamina, menjaga kesehatan jantung, dan membantu membakar kalori dengan berbagai alat kardio modern"
+                },
+                {
+                    "title":"Workout Guidance",
+                    "desc":"Panduan latihan dari trainer untuk membantu kamu menggunakan alat gym dengan benar serta menyusun latihan yang sesuai dengan tujuan kebugaranmu"
+                }
+            ]
+        }
+    },
+
+    "fasilitas":{
+        "sub":"fasilitas kami",
+        "title1":"Fasilitas",
+        "title2":"lengkap & modern",
+        "desc":"Kami menyediakan fasilitas terbaik untuk mendukung setiap sesi latihan kamu agar lebih efektif dan nyaman",
+        "list":[
+            {
+                "title":"Peralatan beban lengkap"
+            },
+            {
+                "title":"Mesin Treadmill & Cardio"
+            },
+            {
+                "title":"Loker & Ruang Ganti"
+            },
+            {
+                "title":"Kamar Mandi & Shower"
+            },
+            {
+                "title":"Ruangan Ber-AC"
+            },
+            {
+                "title":"WiFi Gratis"
+            },
+            {
+                "title":"CCTV 24 Jam"
+            },
+            {
+                "title":"Area Parkir"
+            }
+        ]
+    },
+
+    "membership":{
+        "title":"Membership",
+        "nav":"Beranda / Membership",
+        "plan":{
+            "sub":"Program kami",
+            "title1":"Pilih",
+            "title2":"Paketmu",
+            "desc":"Pilih paket membership yang fleksibel sesuai kebutuhanmu, baik untuk pemula maupun yang sudah berpengalaman dalam dunia fitness",
+            "list":[
+                {
+                    "sub":"Pilihan Terbaik",
+                    "title":"Paket Reguler",
+                    "desc":"Untuk umum / member yang ingin berlatih secara fleksibel",
+                    "package":[
+                        {
+                            "title":"Member Reguler",
+                            "price":"200K",
+                            "month":"/ Bulan"
+                        },
+                        {
+                            "title":"Visit Reguler",
+                            "price":"55K",
+                            "visit":"/ Kunjungan"
+                        }
+                    ],
+                    "benefit":{
+                        "benefit_1":"Akses Semua alat gym",
+                        "benefit_2":"Air Mineral Gratis",
+                        "benefit_3":"Cocok untuk umum"
+                    }
+                },
+                {
+                    "sub":"Pilihan pelajar",
+                    "title":"Paket Pelajar",
+                    "desc":"Harga khusus untuk pelajar atau mahasiswa.",
+                    "package":[
+                        {
+                            "title":"Member Pelajar",
+                            "price":"150K",
+                            "month":"/ Bulan"
+                        },
+                        {
+                            "title":"Visit Pelajar",
+                            "price":"35K",
+                            "visit":"/ Kunjungan"
+                        }
+                    ],
+                    "benefit":{
+                        "benefit_1":"Akses Semua alat gym",
+                        "benefit_2":"Lebih Hemat untuk pelajar",
+                        "benefit_3":"Wajib menunjukkan kartu pelajar / mahasiswa"
+                    }
+                }
+            ]
+        }
+    },
+
+    "faq":{
+        "sub":"F.A.Q",
+        "title":"Pertanyaan yang Sering Diajukan",
+        "desc":"Punya pertanyaan tentang membership, fasilitas, atau bagaimana cara memulai? Kami punya jawabannya",
+        "list":[
+            {
+                "title":"Apa saja jam operasional gym?",
+                "desc":"Senin – Jumat: 14.00 – 22.00 WIB Sabtu – Minggu: 14.00 – 22.00 WI Kami buka setiap hari termasuk hari libur nasional"
+            },
+            {
+                "title":"Apakah tersedia trial atau day pass?",
+                "desc":"Ya! Kami menyediakan paket kunjungan dengan harga Rp 55K (Reguler) dan Rp 35K (Student) per kunjungan, termasuk air mineral"
+            },
+            {
+                "title":"Apa saja yang termasuk dalam membership?",
+                "desc":"Setiap paket membership mencakup akses penuh ke semua peralatan gym, ruang ganti, serta akses ke kelas Zumba kami. Bimbingan dari personal trainer juga tersedia sesuai permintaan"
+            },
+            {
+                "title":"Bagaimana cara mendaftar menjadi member?",
+                "desc":"Kamu dapat mendaftar langsung di gym kami atau menghubungi kami melalui WhatsApp. Admin kami akan membantu memandu proses pendaftaran dan membantu kamu memilih paket yang paling sesuai"         },
+            {
+                "title":"Apakah ada diskon untuk pelajar?",
+                "desc":"Ya! Kami memiliki Paket Student khusus dengan harga Rp 150K/bulan dan Rp 35K/kunjungan. Cukup tunjukkan kartu pelajar atau kartu mahasiswa yang masih berlaku saat pendaftaran untuk mendapatkan harga tersebut"           }
+        ]           
+    },
+    "contact":{
+        "title":"kontak",
+        "nav":"Beranda / kontak",
+        "body":{
+            "info":[
+                {
+                    "title":"Max Gym",
+                    "location":"Jl. Hj. Kokon Komariah, Subangjaya, Kec. Cikole, Kota Sukabumi, Jawa Barat 43116"
+                },
+                {
+                    "title":"Jam Buka",
+                    "hour":{
+                        "weekday":"Sen - Jum : 14.00 - 22.00 WIB",
+                        "weekend":"Sab - Min : 14.00 - 22.00 WIB"
+                    }
+                },
+                {
+                    "title":"Telepon",
+                    "Telp":"+62 815-6344-7530"
+                },
+                {
+                    "title":"Email",
+                    "email":"maxgym@gmail.com"
+                }
+            ]
+        },
+        "message":{
+            "title":"Kirim Pesan kepada Kami",
+            "desc":"Tinggalkan pesan kepada kami dan kami akan merespons secepat mungkin",
+            "input":[
+                {
+                    "title":"Nama Anda",
+                    "placeholder":"Nama Anda"
+                },
+                {
+                    "title":"Alamat Email",
+                    "placeholder":"Email Anda"
+                },
+                {
+                    "title":"Pesan",
+                    "placeholder":"Pesan Anda"
+                }
+            ],
+            "button":"Kirim Pesan"
+        }
+    },
+
+    "adversement_1":{
+        "sub":"Kami Siap Membantu Anda",
+        "title":"Punya Pertanyaan? Kami Punya Jawabannya",
+        "desc":"Tim kami siap membantu Anda memilih paket yang tepat dan memulai latihan segera.",
+        "button":"Chat dengan Kami"
+    },
+    "adversement_2":{
+        "sub":"Penawaran Terbatas",
+        "title":"Investasikan pada dirimu mulai dengan biaya lebih hemat",
+        "desc":"Pilih paketmu hari ini dan ambil langkah pertama menuju tubuh yang lebih kuat dan lebih sehat",
+        "button":"Bergabung sekarang"
+    },
+    "adversement_3":{
+        "sub":"Bergabung Sekarang",
+        "title":"Siap untuk Berlatih? Sesi Pertamamu Dimulai Hari Ini",
+        "desc":"Lihat langsung peralatan kami, temui para trainer, dan rasakan pengalaman berlatih di Max Gym",
+        "button":"Mulai Perjalananmu"
+    },
+
+"footer": {
+  "about": [
+    {
+      "title": "Max Gym",
+      "desc": "MaxGym & Zumba Fitness Performance adalah pusat kebugaran di Sukabumi yang menyediakan fasilitas gym dan kelas Zumba."
+    }
+  ],
+  "links": [
+    { "title": "Tautan Berguna", "list": "Beranda" },
+    { "title": "", "list": "Layanan" },
+    { "title": "", "list": "Membership" },
+    { "title": "", "list": "Kontak" }
+  ],
+  "contact": [
+    { "title": "Kontak" },
+    { "address": "Jl. Hj. Kokon Komariah, Subangjaya..." },
+    { "hours": "Jam Buka: 08:00 - 20:00" },
+    { "title": "+62 815-6344-7530" }
+  ],
+  "copyright": "© 2026 MaxGym. All Rights Reserved."
+},
+
+"testimonial":{
+  "sub":"Testimoni Member",
+  "title1":"Apa kata",
+  "title2":"member kami",
+  "desc":"Pengalaman nyata dari member setia Max Gym",
+  "rate":[
+    {
+      "desc":"Baru nemu tempat gym yang aesthetic, bersih, dan rapi banget. Wajib coba! Harganya juga sangat worth it. Best!"
+    },
+    {
+      "desc":"Tempatnya sangat nyaman. Saya dari awal tahun sampai sekarang masih rutin ngegym di sini 🔥"
+    },
+    {
+      "desc":"Tempatnya strategis, dekat rumah. Fasilitasnya lengkap, bersih, dan nyaman pokoknya."
+    },
+    {
+      "desc":"Pernah sekali gym di sini. Tempatnya enak, bersih, dan alat-alatnya lengkap serta bagus-bagus. Next mau jadi member di sini 🫶"
+    },
+    {
+      "desc":"Tempatnya nyaman, fasilitasnya sangat lengkap. WC dan musholanya yang paling penting juga bersih 🤍"
+    },
+    {
+      "desc":"Tempatnya bagus, bersih, pelayanannya baik, dan alat-alat fitnessnya terbaru. Best!"
+    }
+  ]
+}
+}
