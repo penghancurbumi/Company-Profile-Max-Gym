@@ -11,13 +11,14 @@ Website ini dirancang untuk menampilkan layanan gym secara profesional dengan pe
 ---
 
 ## 📸 Preview
-Home
+
+##Home
 ![](image/preview-home.png) 
 
-Services
+##Services
 ![](image/preview-services.png) 
 
-Membership
+## Membership
 ![](image/preview-membership.png) 
 
 ---
@@ -47,16 +48,59 @@ Membership
 
 ## 📁 Struktur Website
 max-gym/
+```
+max-gym/
 │
-├── components/ # Komponen UI (navbar, footer, dll)
-├── pages/ # Section halaman (partial)
-├── includes/ # Logic utama (language loader)
-├── lang/ # File bahasa (en.json, id.json)
-├── image/ # Asset gambar
-├── js/ # Script interaksi
-├── services/ # Halaman services & facilities
-├── style.css # Custom CSS
-└── index.php # Halaman utama
+├── components/
+│   ├── adpopup.php
+│   ├── floating-button.php
+│   ├── footer.php
+│   ├── language-switcher.php
+│   └── navbar.php
+│
+├── image/
+│   ├── testimonial/
+│   │   ├── testimonial1.png
+│   │   ├── testimonial2.png
+│   │   ├── testimonial3.png
+│   │   ├── testimonial4.png
+│   │   ├── testimonial5.png
+│   │   └── testimonial6.png
+│   │
+│   ├── about-image.png
+│   ├── adpopup.png
+│   ├── favicon.jpg
+│   ├── hero-bg.png
+│   ├── room-gym.png
+│   ├── room-gym1.png
+│   └── ...
+│
+├── includes/
+│   └── language.php
+│
+├── js/
+│   └── script.js
+│
+├── lang/
+│   ├── en.json
+│   └── id.json
+│
+├── pages/
+│   ├── adversement1.php
+│   ├── adversement2.php
+│   ├── adversement3.php
+│   ├── contact.php
+│   ├── faq.php
+│   ├── gallery.php
+│   ├── home.php
+│   ├── membership.php
+│   ├── services.php
+│   ├── testimonial.php
+│   └── ...
+│
+├── index.php
+└── style.css
+```
 
 
 ## 🔄 Alur Sistem (Flow Website)
