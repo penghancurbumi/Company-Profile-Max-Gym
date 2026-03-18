@@ -11,10 +11,14 @@ Website ini dirancang untuk menampilkan layanan gym secara profesional dengan pe
 ---
 
 ## 📸 Preview
+Home
+![](image/preview-home.png) 
 
-| Home | Services | Facilities |
-|------|---------|------------|
-| ![](image/preview-home.png) | ![](image/preview-services.png) | ![](image/preview-facilities.png) |
+Services
+![](image/preview-services.png) 
+
+Membership
+![](image/preview-membership.png) 
 
 ---
 
