@@ -31,7 +31,11 @@
 
             <!-- Section Header -->
             <div class="text-center mb-12 animate-fadeUp">
-                <p class="text-[10px] md:text-xs bg-gradient-to-r from-[#311E68] to-[#7F55F8] bg-clip-text text-transparent font-semibold uppercase tracking-widest mb-2"><?= $content['services']['WWO']['sub']; ?></p>
+                <div class="flex items-center justify-center gap-3 mb-4">
+                    <div class="w-8 h-0.5 bg-gradient-to-r from-[#311E68] to-[#7F55F8]"></div>
+                    <p class="text-[10px] md:text-sm bg-gradient-to-r from-[#311E68] to-[#7F55F8] bg-clip-text text-transparent font-bold tracking-widest italic "><?= $content['services']['WWO']['sub']; ?></p>
+                    <div class="w-8 h-0.5 bg-gradient-to-r from-[#311E68] to-[#7F55F8]"></div>
+                </div>
                 <h2 class="text-xl md:text-3xl font-semibold mb-4"><?= $content['services']['WWO']['title1']. " "; ?><span class="bg-gradient-to-r from-[#311E68] to-[#7F55F8] bg-clip-text text-transparent"><?= $content['services']['WWO']['title2']; ?></span></h2>
                 <p class="text-xs md:text-sm text-gray-400 max-w-xl mx-auto"><?= $content['services']['WWO']['desc']; ?></p>
             </div>
@@ -103,7 +107,11 @@
 
             <!-- Section Header -->
             <div class="text-center mb-12 animate-fadeUp">
-                <p class="text-[10px] md:text-xs bg-gradient-to-r from-[#311E68] to-[#7F55F8] bg-clip-text text-transparent font-semibold uppercase tracking-widest mb-2"><?= $content['fasilitas']['sub']?></p>
+                <div class="flex items-center justify-center gap-3 mb-4">
+                    <div class="w-8 h-0.5 bg-gradient-to-r from-[#311E68] to-[#7F55F8]"></div>
+                    <p class="text-[10px] md:text-sm bg-gradient-to-r from-[#311E68] to-[#7F55F8] bg-clip-text text-transparent font-bold tracking-widest italic"><?= $content['fasilitas']['sub']?></p>
+                    <div class="w-8 h-0.5 bg-gradient-to-r from-[#311E68] to-[#7F55F8]"></div>
+                </div>
                 <h2 class="text-xl md:text-3xl font-semibold mb-4"><?= $content['fasilitas']['title1']?><span class="bg-gradient-to-r from-[#311E68] to-[#7F55F8] bg-clip-text text-transparent"><?= $content['fasilitas']['title2']?></span></h2>
                 <p class="text-xs md:text-sm text-gray-400 max-w-xl mx-auto"><?= $content['fasilitas']['desc']?></p>
             </div>

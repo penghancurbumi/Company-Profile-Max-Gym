@@ -4,6 +4,7 @@
 <head>
 
 <title>Max Gym - Performance</title>
+<meta name="google-site-verification" content="RXnX0xXMYDdgxbo8UXv-m6_pA40OQu2vlBC6gg-xW6Y" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" type="image/jpg" href="/image/favicon.jpg">
 <style>html, body { background-color: #000 !important; }</style>
@@ -30,12 +31,15 @@
 <body class="min-h-screen bg-black text-white">
 
     <?php
+    /*
     if (file_exists('components/adpopup.php')) {
         include 'components/adpopup.php';
     } else {
         echo '<!-- ERROR: components/adpopup.php tidak ditemukan -->';
     }
+    */
     ?>
+    
 
     <div>
         <?php include 'components/navbar.php'?>    

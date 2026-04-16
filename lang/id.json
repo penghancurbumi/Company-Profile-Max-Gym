@@ -9,7 +9,7 @@
     "home":{
         "hero_title1":"Ubah",
         "hero_title2":"Tubuhmu Bersama",
-        "hero_desc":"Bangun tubuh yang lebih kuat dengan latihan yang konsisten dan disiplin. Mulai hari ini dan jadilah versi terbaik dari dirimu",
+        "hero_desc":"Tempat gym terbaik di Sukabumi dengan personal trainer profesional dan program fitness lengkap.",
         "hero_join":"bergabung sekarang",
         "hero_view":"Lihat Program"
     },
@@ -18,7 +18,7 @@
         "program_p":"Apa yang Kami Tawarkan",
         "program_our":"Program",
         "program_program":"Kami",
-        "program_desc":"Program latihan kami dirancang khusus untuk membantu kamu mencapai tujuan kebugaran dan kondisi fisik terbaik",
+        "program_desc":"Program latihan di Maxgym Performance dirancang khusus untuk membantu kamu mencapai tujuan kebugaran dan kondisi fisik terbaik secara efektif dan aman.",
         "list":[
             {
                 "title":"latihan Personal",
@@ -43,7 +43,7 @@
         "choose_p":"Mengapa Max Gym",
         "choose_title1":"Mengapa",
         "choose_title2":"memilih kami",
-        "choose_desc":"Kami berkomitmen memberikan pengalaman gym yang terbaik untuk setiap member",
+        "choose_desc":"Kami berkomitmen memberikan pengalaman gym terbaik untuk setiap member dengan fasilitas lengkap dan layanan profesional.",
         "list":[
             {
                 "title":"Pelatih Berpengalaman",
@@ -68,41 +68,41 @@
         "sub":"Jelajahi Gym Kami",
         "title1":"Di Dalam",
         "title2":"MaxGym",
-        "desc":"Ruang kami, perjalananmu dirancang untuk mendorongmu melampaui batasmu."
+        "desc":"Ruang latihan modern yang dirancang untuk mendukung perjalanan fitness kamu menjadi lebih maksimal."
     },
 
     "services":{
-        "services_title":"Services kami",
+        "services_title":"Layanan kami",
         "services_nav":"Beranda / Layanan",
         "WWO":{
             "sub":"WHAT WE OFFER",
             "title1":"Program yang Dirancang untuk",
             "title2":"Hasil Nyata",
-            "desc":"Kami menyediakan berbagai program latihan yang dirancang khusus untuk membantu kamu mencapai tujuan fisik terbaikmu.",
+            "desc":"Maxgym Performance menyediakan berbagai program fitness seperti personal training, strength training, cardio, dan kelas Zumba yang dirancang untuk membantu kamu mencapai tujuan kebugaran secara efektif dan aman.",
             "list":[
                 {
                     "title":"Personal Training",
-                    "desc":"Latihan satu-satu bersama trainer berpengalaman kami. Program disesuaikan dengan kondisi tubuh, tujuan, dan jadwal kamu secara personal"
+                    "desc":"Latihan personal bersama trainer profesional Maxgym Performance yang disesuaikan dengan kondisi tubuh, tujuan, dan jadwal kamu."
                 },
                 {
                     "title":"Group Class (Zumba)",
-                    "desc":"Nikmati sesi latihan bersama dalam kelas Zumba yang energik dan menyenangkan. Cocok untuk semua usia dan tingkat kebugaran"
+                    "desc":"Kelas Zumba yang energik dan menyenangkan di Maxgym, cocok untuk semua usia dan tingkat kebugaran."
                 },
                 {
                     "title":"Membership",
-                    "desc":"Pilihan paket yang fleksibel, baik visit maupun bulanan. Dapatkan akses penuh ke semua fasilitas gym dengan harga terjangkau"
+                    "desc":"Flexible membership options with full access to all facilities at Maxgym Performance."
                 },
                 {
                     "title":"Strength Training",
-                    "desc":"Program latihan beban untuk membantu membangun kekuatan dan massa otot secara efektif dengan teknik yang aman dan terarah"
+                    "desc":"Program latihan beban untuk meningkatkan kekuatan dan membentuk massa otot dengan teknik yang aman dan terarah."
                 },
                 {
                     "title":"Cardio Training",
-                    "desc":"Latihan kardio untuk meningkatkan stamina, menjaga kesehatan jantung, dan membantu membakar kalori dengan berbagai alat kardio modern"
+                    "desc":"Latihan kardio dengan peralatan modern untuk meningkatkan stamina, menjaga kesehatan jantung, dan membakar kalori."
                 },
                 {
                     "title":"Workout Guidance",
-                    "desc":"Panduan latihan dari trainer untuk membantu kamu menggunakan alat gym dengan benar serta menyusun latihan yang sesuai dengan tujuan kebugaranmu"
+                    "desc":"Panduan latihan dari trainer Maxgym untuk membantu penggunaan alat yang benar dan menyusun program latihan sesuai kebutuhan."
                 }
             ]
         }
@@ -110,9 +110,9 @@
 
     "fasilitas":{
         "sub":"fasilitas kami",
-        "title1":"Fasilitas",
+        "title1":"Fasilitas ",
         "title2":"lengkap & modern",
-        "desc":"Kami menyediakan fasilitas terbaik untuk mendukung setiap sesi latihan kamu agar lebih efektif dan nyaman",
+        "desc":"Maxgym Performance menyediakan fasilitas gym modern untuk mendukung setiap sesi latihan agar lebih nyaman dan maksimal.",
         "list":[
             {
                 "title":"Peralatan beban lengkap"
@@ -148,7 +148,7 @@
             "sub":"Program kami",
             "title1":"Pilih",
             "title2":"Paketmu",
-            "desc":"Pilih paket membership yang fleksibel sesuai kebutuhanmu, baik untuk pemula maupun yang sudah berpengalaman dalam dunia fitness",
+            "desc":"MaxGym Performance menyediakan berbagai pilihan membership yang fleksibel, cocok untuk pemula<br>maupun yang sudah berpengalaman dalam dunia fitness.",
             "list":[
                 {
                     "sub":"Pilihan Terbaik",
@@ -293,7 +293,7 @@
   "about": [
     {
       "title": "Max Gym",
-      "desc": "MaxGym & Zumba Fitness Performance adalah pusat kebugaran di Sukabumi yang menyediakan fasilitas gym dan kelas Zumba."
+      "desc": "Maxgym & Zumba Fitness Performance adalah pusat kebugaran di Sukabumi yang menyediakan fasilitas gym dan kelas Zumba."
     }
   ],
   "links": [

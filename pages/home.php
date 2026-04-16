@@ -4,11 +4,12 @@
     <div class="relative z-10 max-w-7xl mx-auto px-5 md:px-10 w-full">
       <div class="flex flex-col-reverse md:flex-row items-center justify-between gap-10 min-h-[30vh] md:min-h-[60vh]">
         <div class="md:w-1/2 text-center md:text-left">
-          <h1 class="text-3xl md:text-5xl font-bold leading-tight mb-4 animate-fadeUp">Transform Your
-            <span class="block mt-2">Body With <span class="bg-gradient-to-r from-[#130049] via-[#3A1E8C] to-[#6943D4] bg-clip-text text-transparent">MaxGym</span></span>
+          <h1 class="text-3xl md:text-5xl font-bold leading-tight mb-5 animate-fadeUp"> Max Gym & Zumba
+            <span class="block mt-2">Fitness <span class="bg-gradient-to-r from-[#130049] via-[#3A1E8C] to-[#6943D4] bg-clip-text text-transparent">Performance</span>
+        </span>
           </h1>
           <p class="text-gray-300 text-sm md:text-base mb-6 max-w-lg mx-auto md:mx-0 animate-fadeUp delay-1">
-            <?= $content['home']['hero_desc']; ?>.
+            <?= $content['home']['hero_desc']; ?>
           </p>
           <div class="flex justify-center md:justify-start gap-4 animate-fadeUp delay-2">
             <a href="/pages/membership.php" class="px-6 py-3 bg-gradient-to-r from-[#280069] to-[#4F00CF] rounded-lg font-semibold text-[10px] md:text-sm hover:opacity-90 transition"><?= $content['home']['hero_join']; ?></a>

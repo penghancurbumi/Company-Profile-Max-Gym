@@ -13,14 +13,14 @@
             <!-- Content -->
             <div class="relative z-10 px-4 md:px-6 py-10 min-h-[250px] flex items-center justify-center">
                 <div class="max-w-2xl text-white mx-auto">
-                    <p class="text-xs mb-2 textshow"><?= $content['adversement_1']['sub']?></p>
+                    <p class="text-xs mb-2 textshow"><?= $content['adversement_3']['sub']?></p>
                     <h2 class="text-lg sm:text-2xl md:text-3xl font-semibold mb-4 textshow">
-                        READY TO TRAIN? YOUR FIRST SESSION STARTS TODAY</h2>
+                        <?= $content['adversement_3']['title']?></h2>
                     <p class="text-[10px] md:text-sm mb-6 textshow">
-                        See the equipment, meet the trainers, and experience Max Gym for yourself</p>
+                        <?= $content['adversement_3']['desc']?></p>
                     <a href="/pages/membership.php">
                     <button class="px-6 py-3 text-xs font-semibold bg-gradient-to-r from-[#280069] to-[#4F00CF] hover:opacity-90 transition textshow">
-                        Start Your Journey</button>
+                        <?= $content['adversement_3']['button']?></button>
                     </a>
                     </div>
                 </div>

@@ -9,7 +9,7 @@
   "home": {
     "hero_title1": "Transform Your",
     "hero_title2":"Body With",
-    "hero_desc": "Build a stronger body with consistent training and discipline. Start today and become the best version of yourself",
+    "hero_desc": "The best gym in Sukabumi, featuring professional personal trainers and a comprehensive fitness program.",
     "hero_join": "join now",
     "hero_view": "View Programs"
   },
@@ -18,7 +18,7 @@
     "program_p": "What We Offer",
     "program_our": "our",
     "program_program":"programs",
-    "program_desc": "Our training programs are specially designed to help you achieve your best fitness and physical condition",
+    "program_desc": "The workout programs at Maxgym Performance are specifically designed to help you achieve your fitness goals and reach peak physical condition effectively and safely.",
     "list": [
       {
         "title": "Personal Training",
@@ -43,7 +43,7 @@
     "choose_p": "Why Max Gym",
     "choose_title1": "Why",
     "choose_title2": "Choose Us",
-    "choose_desc": "We are committed to providing the best gym experience for every member",
+    "choose_desc": "We are committed to providing the best gym experience for every member with state-of-the-art facilities and professional service.",
     "list": [
       {
         "title": "Experienced Trainers",
@@ -68,25 +68,25 @@
     "sub": "Discover Our Gym",
     "title1": "Inside",
     "title2":"MaxGym",
-    "desc": "Our space, your journey built to push you beyond your limits."
+    "desc": "A modern workout space designed to help you get the most out of your fitness journey."
   },
 
   "services": {
     "services_title": "Our Services",
     "services_nav": "Home / Services",
     "WWO": {
-      "sub": "WHAT WE OFFER",
+      "sub": "What We Offer",
       "title1": "Programs Built for",
       "title2":"Real Results",
-      "desc": "We offer a variety of training programs designed to help you achieve your best physical results.",
+      "desc": "Max Gym Performance offers a variety of fitness programs, such as personal training, strength training, cardio, and Zumba classes, designed to help you achieve your fitness goals effectively and safely.",
       "list": [
         {
           "title": "Personal Training",
-          "desc": "One-on-one training with our experienced trainers. Programs are tailored to your body condition, goals, and schedule"
+          "desc": "Personal training sessions with a professional Maxgym Performance trainer, tailored to your physical condition, goals, and schedule."
         },
         {
           "title": "Group Class (Zumba)",
-          "desc": "Enjoy energetic and fun Zumba group classes suitable for all ages and fitness levels"
+          "desc": "An energetic and fun Zumba class at Maxgym, suitable for all ages and fitness levels."
         },
         {
           "title": "Membership",
@@ -94,25 +94,25 @@
         },
         {
           "title": "Strength Training",
-          "desc": "Weight training programs to effectively build strength and muscle with proper and safe techniques"
+          "desc": "A strength training program designed to build strength and muscle mass using safe and targeted techniques."
         },
         {
           "title": "Cardio Training",
-          "desc": "Improve stamina, heart health, and burn calories with modern cardio equipment"
+          "desc": "Cardio workouts using modern equipment to boost stamina, maintain heart health, and burn calories."
         },
         {
           "title": "Workout Guidance",
-          "desc": "Guidance from trainers to help you use gym equipment properly and build the right workout routine"
+          "desc": "Workout guides from Maxgym trainers to help you use the equipment properly and create a workout program tailored to your needs."
         }
       ]
     }
   },
 
   "fasilitas": {
-  "sub":"our facilities",
+  "sub":"Our Facilities",
   "title1":"Complete & Modern",
   "title2":"Facilities",
-  "desc": "We provide the best facilities to support every workout session so you can train comfortably and effectively",
+  "desc": "Maxgym Performance offers modern gym facilities to ensure that every workout session is comfortable and effective.",
   "list": [
       { "title": "Complete Weight Equipment" },
       { "title": "Treadmill & Cardio Machines" },
@@ -132,7 +132,7 @@
       "sub": "our program",
       "title1": "Choose Your",
       "title2": "Plan",
-      "desc": "Choose flexible membership packages designed to suit your needs, whether you are a beginner or already experienced",
+      "desc": "MaxGym Performance offers a variety of flexible membership options, suitable for both beginners<br>and those with experience in the fitness world.",
       "list": [
         {
           "sub": "Best Choice",
