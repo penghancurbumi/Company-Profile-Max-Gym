@@ -124,7 +124,7 @@
           
         </div>
         <a href="https://api.whatsapp.com/send/?phone=6281563447530" 
-            target="_blank"
+            target="_blank" rel="noopener noreferrer"
             class=" btn-join block text-center font-semibold text-sm py-4 uppercase tracking-wider">Get Started</a>
       </div>
 
@@ -200,7 +200,7 @@
     </div>
 
     <a href="https://api.whatsapp.com/send/?phone=6281563447530"
-      target="_blank"
+      target="_blank" rel="noopener noreferrer"
       class="btn-join block text-center font-semibold text-sm py-4 uppercase tracking-wider">Get Started</a>
     </div>
   </div>

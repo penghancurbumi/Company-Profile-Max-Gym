@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" media="print" onload="this.media='all'">
 <footer class="relative bg-[#121212] py-10">
   <section class="relative z-10 max-w-7xl mx-auto px-5 text-left">
 
@@ -11,13 +11,13 @@
         </span>
         <p class="mt-5 text-sm text-white"><?= $content['footer']['about'][0]['desc'] ?></p>
         <div class="flex space-x-5 mt-10">
-          <a href="https://www.instagram.com/maxgym.performance/" class="h-8 w-8 flex items-center justify-center bg-transparent border border-[#311E68] rounded">
+          <a href="https://www.instagram.com/maxgym.performance/" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="h-8 w-8 flex items-center justify-center bg-transparent border border-[#311E68] rounded">
             <i class="fa-brands fa-instagram fa-lg text-[#311E68]"></i>
           </a>
-          <a href="https://api.whatsapp.com/send/?phone=%2B6281563447530&text&type=phone_number&app_absent=0" class="h-8 w-8 flex items-center justify-center bg-transparent border border-[#311E68] rounded">
+          <a href="https://api.whatsapp.com/send/?phone=%2B6281563447530&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" class="h-8 w-8 flex items-center justify-center bg-transparent border border-[#311E68] rounded">
             <i class="fa-brands fa-whatsapp fa-lg text-[#311E68]"></i>
           </a>
-          <a href="" class="h-8 w-8 flex items-center justify-center bg-transparent border border-[#311E68] rounded">
+          <a href="#" target="_blank" rel="noopener noreferrer" aria-label="TikTok" class="h-8 w-8 flex items-center justify-center bg-transparent border border-[#311E68] rounded">
             <i class="fa-brands fa-tiktok fa-lg text-[#311E68]"></i>
           </a>
         </div>

@@ -17,7 +17,7 @@
         <div class="rounded-xl bg-[#0F0F0F] p-5 md:p-6 min-h-[140px] md:min-h-[250px]">
             <div class="relative flex flex-col justify-start w-full text-white">
                 <div class="flex items-center gap-4 mb-5">
-                    <img src="image/testimonial/testimonial6.png" alt="testimonial image" class="h-9 w-9 md:h-10 md:w-10 rounded-full object-cover mt-1">
+                    <img src="image/testimonial/testimonial6.png" alt="Testimonial profile 1" loading="lazy" class="h-9 w-9 md:h-10 md:w-10 rounded-full object-cover mt-1">
                     <h3 class="font-semibold text-sm sm:text-base md:text-lg">Nadya Mauliddya</h3>
                 </div>
                 <p class="text-xs sm:text-sm md:text-base line-clamp-3"><?= $content['testimonial']['rate'][0]['desc']?></p>
@@ -34,7 +34,7 @@
         <div class="rounded-xl bg-[#0F0F0F] p-5 md:p-6 min-h-[140px] md:min-h-[250px]">
             <div class="relative flex flex-col justify-start w-full text-white">
                 <div class="flex items-center gap-4 mb-5">
-                    <img src="image/testimonial/testimonial2.png" alt="testimonial image" class="h-9 w-9 md:h-10 md:w-10 rounded-full object-cover mt-1">
+                    <img src="image/testimonial/testimonial2.png" alt="Testimonial profile 2" loading="lazy" class="h-9 w-9 md:h-10 md:w-10 rounded-full object-cover mt-1">
                     <h3 class="font-semibold text-sm sm:text-base md:text-lg">Revs X</h3>
                 </div>
                 <p class="text-xs sm:text-sm md:text-base line-clamp-3"><?= $content['testimonial']['rate'][1]['desc']?></p>
@@ -51,7 +51,7 @@
         <div class="rounded-xl bg-[#0f0f0f] p-5 md:p-6 min-h-[140px] md:min-h-[250px]">
             <div class="relative flex flex-col justify-start w-full text-white">
                 <div class="flex items-center gap-4 mb-5">
-                    <img src="image/testimonial/testimonial3.png" alt="testimonial image" class="h-10 w-10 rounded-full objext-cover mt-1">
+                    <img src="image/testimonial/testimonial3.png" alt="Testimonial profile 3" loading="lazy" class="h-10 w-10 rounded-full object-cover mt-1">
                     <h3 class="font-semibold text-sm sm:text-base md:text-lg">Dynesh Malik</h3>
                 </div>
                 <p class="text-xs sm:text-sm md:text-base line-clamp-3"><?= $content['testimonial']['rate'][2]['desc']?></p>
@@ -68,7 +68,7 @@
         <div class="rounded-xl bg-[#0F0F0F] p-5 md:p-6 min-h-[140px] md:min-h-[250px]">
             <div class="relative flex flex-col justify-start w-full text-white">
                 <div class="flex items-center gap-4 mb-5">
-                    <img src="image/testimonial/testimonial4.png" alt="testimonial image" class="h-9 w-9 md:h-10 md:w-10 rounded-full object-cover mt-1">
+                    <img src="image/testimonial/testimonial4.png" alt="Testimonial profile 4" loading="lazy" class="h-9 w-9 md:h-10 md:w-10 rounded-full object-cover mt-1">
                     <h3 class="font-semibold text-sm sm:text-base md:text-lg">Shera Wahyugi</h3>
                 </div>
                 <p class="text-xs sm:text-sm md:text-base line-clamp-3"><?= $content['testimonial']['rate'][3]['desc']?></p>
@@ -85,7 +85,7 @@
         <div class="rounded-xl bg-[#0f0f0f] p-5 md:p-6 min-h-[140px] md:min-h-[250px]">
             <div class="relative flex flex-col justify-start w-full text-white">
                 <div class="flex items-center gap-4 mb-5">
-                    <img src="image/testimonial/testimonial5.png" alt="testimonial image" class="h-10 w-10 rounded-full object-cover mt-1">
+                    <img src="image/testimonial/testimonial5.png" alt="Testimonial profile 5" loading="lazy" class="h-10 w-10 rounded-full object-cover mt-1">
                     <h3 class="font-semibold text-sm sm:text-base md:text-lg">febi ftmh</h3>
                 </div>
                 <p class="text-xs sm:text-sm md:text-base line-clamp-3"><?= $content['testimonial']['rate'][4]['desc']?></p>
@@ -102,7 +102,7 @@
         <div class="rounded-xl bg-[#0f0f0f] p-5 md:p-6 min-h-[140px] md:min-h-[250px]">
             <div class="relative flex flex-col justify-start w-full text-white">
                 <div class="flex items-center gap-4 mb-5">
-                    <img src="image/testimonial/testimonial1.png" alt="testimonial image" class="h-10 w-10 rounded-full objext-cover mt-1">
+                    <img src="image/testimonial/testimonial1.png" alt="Testimonial profile 6" loading="lazy" class="h-10 w-10 rounded-full object-cover mt-1">
                     <h3 class="font-semibold text-sm sm:text-base md:text-lg">Mara Giovano</h3>
                 </div>
                 <p class="text-xs sm:text-sm md:text-base line-clamp-3"><?= $content['testimonial']['rate'][5]['desc']?></p>

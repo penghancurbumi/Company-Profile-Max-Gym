@@ -12,6 +12,7 @@ $flag = $lang === "id" ? "id" : "gb";
     <img 
         src="https://hatscripts.github.io/circle-flags/flags/<?= $flag ?>.svg"
         class="w-5 h-5"
+        alt="Language flag"
     >
 
     <span class="text-xs font-semibold uppercase">

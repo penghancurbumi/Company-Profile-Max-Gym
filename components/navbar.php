@@ -19,7 +19,7 @@
 
         <div class="flex flex-1 justify-end items-center gap-4">
             <?php include __DIR__ . "/language-switcher.php"; ?>
-            <button id="menu-btn" class="md:hidden text-3xl">
+            <button id="menu-btn" class="md:hidden text-3xl" aria-label="Open menu">
                 <span class="iconify" data-icon="ei:navicon"></span>
             </button>
         </div>
@@ -37,7 +37,7 @@
                         </span>
                     </div>
 
-                    <button id="close-btn" class="text-3xl ml-auto">
+                    <button id="close-btn" class="text-3xl ml-auto" aria-label="Close menu">
                         <span class="iconify text-white" data-icon="mdi:close"></span>
                     </button>
                 </div>
@@ -80,6 +80,7 @@
 
            const joinBtn = document.getElementById('joinNowBtn');
 
+           if (joinBtn) {
             joinBtn.addEventListener('click', (e) => {
                 e.preventDefault();
 
@@ -106,6 +107,7 @@
                     }
                 }, 200); // delay sesuai durasi animasi sidebar
             });
+           }
             </script>
         </div>
     </div>

@@ -12,22 +12,22 @@
       
     <div class="grid grid-cols-1 md:grid-cols-12 gap-4 sm:gap-6 boxReveal">
         <div class="col-span-12 md:col-span-7 overflow-hidden rounded-2xl border border-white/10 group cursor-pointer">
-            <img src="image/image1.jpg" alt="gallery 1"
+            <img src="image/image1.jpg" alt="Gym workout gallery image 1" loading="lazy"
                 class="w-full h-[200px] sm:h-[250px] md:h-[300px] object-cover transition duration-500 group-hover:scale-110">
         </div>
 
         <div class="col-span-12 md:col-span-5 overflow-hidden rounded-2xl border border-white/10 group cursor-pointer">
-            <img src="image/image2.jpg" alt="gallery 2"
+            <img src="image/image2.jpg" alt="Gym workout gallery image 2" loading="lazy"
                 class="w-full h-[200px] sm:h-[250px] md:h-[300px] object-cover transition duration-500 group-hover:scale-110">
         </div>
 
         <div class="col-span-12 md:col-span-5 overflow-hidden rounded-2xl border border-white/10 group cursor-pointer">
-            <img src="image/image3.jpg" alt="gallery 3"
+            <img src="image/image3.jpg" alt="Gym workout gallery image 3" loading="lazy"
                 class="w-full h-[200px] sm:h-[250px] md:h-[350px] object-cover transition duration-500 group-hover:scale-110">
         </div>
 
         <div class="col-span-12 md:col-span-7 overflow-hidden rounded-2xl border border-white/10 group cursor-pointer">
-            <img src="image/image4.jpg" alt="gallery 4"
+            <img src="image/image4.jpg" alt="Gym workout gallery image 4" loading="lazy"
                 class="w-full h-[200px] sm:h-[250px] md:h-[350px] object-cover transition duration-500 group-hover:scale-110">
         </div>
     </div>

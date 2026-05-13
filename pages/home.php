@@ -38,7 +38,7 @@
 
     <!-- Personal Training -->
       <div class="relative overflow-hidden rounded-xl h-[220px] md:h-[280px] group cursor-pointer boxReveal">
-        <img src="../image/personal-trainning.png" alt="Personal Training"
+        <img src="../image/personal-trainning.png" alt="Personal Training" loading="lazy"
           class="w-full h-full object-cover absolute inset-0 transition duration-500 group-hover:scale-105 grayscale group-hover:grayscale-0">
         <div class="absolute inset-0 bg-gradient-to-t from-black/95 via-black/30 to-transparent group-hover:from-[#14003c]/95 transition duration-300"></div>
         <div class="absolute bottom-0 left-0 right-0 p-4 md:p-6 flex items-end justify-between">
@@ -46,7 +46,7 @@
             <h3 class="text-base md:text-xl font-bold uppercase mb-1"><?= $content['program']['list'][0]['title']; ?></h3>
             <p class="text-xs text-gray-300 max-w-xs"><?= $content['program']['list'][0]['desc']; ?></p>
           </div>
-          <a href="/pages/services.php"
+          <a href="/pages/services.php" aria-label="Learn more about Personal Training"
             class="ml-4 w-9 h-9 flex-shrink-0 rounded-full bg-gradient-to-t from-[#280069] to-[#4F00CF] hover:bg-purple-600 flex items-center justify-center transition">
             <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
@@ -57,7 +57,7 @@
 
       <!-- Strength Training -->
       <div class="relative overflow-hidden rounded-xl h-[220px] md:h-[280px] group cursor-pointer boxReveal">
-        <img src="../image/strenght-trainning.png" alt="Strength Training"
+        <img src="../image/strenght-trainning.png" alt="Strength Training" loading="lazy"
           class="w-full h-full object-cover absolute inset-0 transition duration-500 group-hover:scale-105 grayscale group-hover:grayscale-0">
         <div class="absolute inset-0 bg-gradient-to-t from-black/95 via-black/30 to-transparent group-hover:from-[#14003c]/95 transition duration-300"></div>
         <div class="absolute bottom-0 left-0 right-0 p-4 md:p-6 flex items-end justify-between">
@@ -65,7 +65,7 @@
             <h3 class="text-base md:text-xl font-bold uppercase mb-1"><?= $content['program']['list'][1]['title']; ?></h3>
             <p class="text-xs text-gray-300 max-w-xs"><?= $content['program']['list'][1]['desc']; ?></p>
           </div>
-          <a href="/pages/services.php"
+          <a href="/pages/services.php" aria-label="Learn more about Strength Training"
             class="ml-4 w-9 h-9 flex-shrink-0 rounded-full bg-gradient-to-t from-[#280069] to-[#4F00CF] hover:bg-purple-600 flex items-center justify-center transition">
             <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
@@ -76,7 +76,7 @@
 
       <!-- Group Class / Zumba -->
       <div class="relative overflow-hidden rounded-xl h-[220px] md:h-[280px] group cursor-pointer boxReveal">
-        <img src="../image/zumba-class.png" alt="Group Class"
+        <img src="../image/zumba-class.png" alt="Group Class" loading="lazy"
           class="w-full h-full object-cover absolute inset-0 transition duration-500 group-hover:scale-105 grayscale group-hover:grayscale-0">
         <div class="absolute inset-0 bg-gradient-to-t from-black/95 via-black/30 to-transparent group-hover:from-[#14003c]/95 transition duration-300"></div>
         <div class="absolute bottom-0 left-0 right-0 p-4 md:p-6 flex items-end justify-between">
@@ -84,7 +84,7 @@
             <h3 class="text-base md:text-xl font-bold uppercase mb-1"><?= $content['program']['list'][2]['title']; ?></h3>
             <p class="text-xs text-gray-300 max-w-xs"><?= $content['program']['list'][2]['desc']; ?></p>
           </div>
-          <a href="/pages/services.php"
+          <a href="/pages/services.php" aria-label="Learn more about Zumba Class"
             class="ml-4 w-9 h-9 flex-shrink-0 rounded-full bg-gradient-to-t from-[#280069] to-[#4F00CF] hover:bg-purple-600 flex items-center justify-center transition">
             <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
@@ -95,7 +95,7 @@
 
       <!-- Fitness Training / Cardio -->
       <div class="relative overflow-hidden rounded-xl h-[220px] md:h-[280px] group cursor-pointer boxReveal">
-        <img src="../image/fitness-trainning.png" alt="Fitness Training"
+        <img src="../image/fitness-trainning.png" alt="Fitness Training" loading="lazy"
           class="w-full h-full object-cover absolute inset-0 transition duration-500 group-hover:scale-105 grayscale group-hover:grayscale-0">
         <div class="absolute inset-0 bg-gradient-to-t from-black/95 via-black/30 to-transparent group-hover:from-[#14003c]/95 transition duration-300"></div>
         <div class="absolute bottom-0 left-0 right-0 p-4 md:p-6 flex items-end justify-between">
@@ -103,7 +103,7 @@
             <h3 class="text-base md:text-xl font-bold uppercase mb-1"><?= $content['program']['list'][3]['title']; ?></h3>
             <p class="text-xs text-gray-300 max-w-xs"><?= $content['program']['list'][3]['desc']; ?></p>
           </div>
-          <a href="/pages/services.php"
+          <a href="/pages/services.php" aria-label="Learn more about Fitness Training"
             class="ml-4 w-9 h-9 flex-shrink-0 rounded-full bg-gradient-to-t from-[#280069] to-[#4F00CF] hover:bg-purple-600 flex items-center justify-center transition">
             <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/>
