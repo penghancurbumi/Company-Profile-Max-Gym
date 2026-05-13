@@ -26,9 +26,9 @@
 
         <div id="overlay" class="fixed inset-0 bg-black/50 hidden z-40"></div>
 
-        <div id="sidebar"class="fixed md:none top-0 right-0 h-screen w-full z-50 flex flex-col 
+        <div id="sidebar" class="fixed md:none top-0 right-0 h-screen w-full z-50 flex flex-col 
                 shadow-lg items-start justify-start bg-[#121212]/50 backdrop-blur px-8 mb-8 
-                font-semibold translate-x-full transition-transform duration-300">
+                font-semibold translate-x-full">
 
                 <div class="flex items-center py-5 w-full mb-5">
                     <div class="font-bold text-xl">
@@ -50,8 +50,7 @@
                     <a href="/pages/Membership.php" class="sidebar-link text-lg block w-full py-3 border-b border-white/10 hover:text-[#311E68] transition">
                         <?= $content['navbar']['membership']; ?>
                     </a>
-                    <a href="/pages/contact.php" class="sidebar-link text-lg block w-full py-3 border-b border-white/10 hover:text-[#311E68]
-                     transition">
+                    <a href="/pages/contact.php" class="sidebar-link text-lg block w-full py-3 border-b border-white/10 hover:text-[#311E68]">
                     <?= $content['navbar']['contact']; ?>
                 </a>
         </div>
@@ -60,6 +59,13 @@
             const sidebar = document.getElementById("sidebar");
             const closeBtn = document.getElementById("close-btn");
             const overlay = document.getElementById("overlay");
+
+            // Tambahkan class transisi setelah halaman dimuat untuk mencegah animasi saat FOUC
+            window.addEventListener('load', () => {
+                setTimeout(() => {
+                    sidebar.classList.add('transition-transform', 'duration-300');
+                }, 100);
+            });
 
             // buka/tutup sidebar
             menuBtn.addEventListener("click", () => {
