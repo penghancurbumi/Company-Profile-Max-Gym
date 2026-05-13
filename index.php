@@ -38,6 +38,7 @@
 
 </head>
 <body class="min-h-screen bg-black text-white">
+    <?php include 'components/preloader.php'; ?>
 
     <?php
     /*

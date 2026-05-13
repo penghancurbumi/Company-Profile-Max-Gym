@@ -12,6 +12,7 @@
 </head>
 
 <body class="bg-black">
+    <?php include '../components/preloader.php'; ?>
     <?php include '../components/navbar.php'?>    
 
     <!-- Hero Section -->

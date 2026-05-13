@@ -25,6 +25,7 @@
     </style>
 </head>
 <body>
+  <?php include '../components/preloader.php'; ?>
   <?php include "../components/navbar.php"?>
 
 <section class="relative min-h-[60vh] pt-20 flex items-center justify-center text-white bg-cover bg-center grayscale" 
